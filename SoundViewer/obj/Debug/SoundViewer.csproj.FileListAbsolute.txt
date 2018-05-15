@@ -1,0 +1,9 @@
+D:\Download2\SoundViewer\SoundViewer\bin\Debug\SoundViewer.exe
+D:\Download2\SoundViewer\SoundViewer\bin\Debug\SoundViewer.pdb
+D:\Download2\SoundViewer\SoundViewer\obj\Debug\SoundViewer.csprojResolveAssemblyReference.cache
+D:\Download2\SoundViewer\SoundViewer\obj\Debug\SoundViewer.Form1.resources
+D:\Download2\SoundViewer\SoundViewer\obj\Debug\SoundViewer.Properties.Resources.resources
+D:\Download2\SoundViewer\SoundViewer\obj\Debug\SoundViewer.csproj.GenerateResource.cache
+D:\Download2\SoundViewer\SoundViewer\obj\Debug\SoundViewer.csproj.CoreCompileInputs.cache
+D:\Download2\SoundViewer\SoundViewer\obj\Debug\SoundViewer.exe
+D:\Download2\SoundViewer\SoundViewer\obj\Debug\SoundViewer.pdb
